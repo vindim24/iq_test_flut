@@ -1,16 +1,13 @@
-# iq_test_flut
+# IQ Test Flut
 
-This is a flutter project, where you can check your IQ level. This application is experimental.
+Тестове завдання включає в себе 20 питань, на основі яких можна приблизно порахувати рівень айк'ю
 
-## Getting Started
+Насправді я міг би зробити краще, але сам поставив себе у рамки малого часу. Можу відповісти на питання
+по коду та сприймаю тверезу критику
 
-This project is a starting point for a Flutter application.
+• показана певні умовні шари чистої архітектури, але у проєкті з галереєю можна побачити її краще використання
+• навігація між екранами
+• показані деякі намагання певного стайл-коду, але навіть винести ці значення в константи я не встиг
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://i.imgur.com/0lV3ulE.png"  width="30%" height="30%"><img src="https://i.imgur.com/Q4e9noE.png"  width="30%" height="30%"><img src="https://i.imgur.com/ccakviZ.png"  width="30%" height="30%">
